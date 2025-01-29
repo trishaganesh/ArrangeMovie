@@ -1,5 +1,5 @@
 # ArrangeMovie: Selection Sort
-Having a list of movies, we can then sort them based on title or year created. By using the selection sort algorithm, we reorder the collection either in ascending or descending order.
+Having a list of movies, we can then sort them based on title, year created, or studio. By using the selection sort algorithm, we reorder the collection either in ascending or descending order.
 
 The purpose of this program is to understand how selection sort methods work and how we can sort by finding the largest element within an array, 
 then it gets swapped, reducing the length of the elements in the array by 1. 
